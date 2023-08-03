@@ -22,18 +22,18 @@
 ---
 
 ## Скриншоты
-| Сценарий | Фото 1 | Фото 2 |
-|--------|-------|--------|
-| Главное меню | ![photo_6_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/5bf34772-5afe-4b15-a643-6e867fa32a62) | |
-| Определение Хотдога | ![photo_1_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/193ec0e3-4383-4422-bb56-bed4831c4538) | ![photo_3_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/0eeae28b-d2cd-4b76-904a-822b944aced3) |
+| Сценарий               | Фото 1                                                                                                                             | Фото 2                                                                                                                             |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Главное меню           | ![photo_6_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/5bf34772-5afe-4b15-a643-6e867fa32a62) |                                                                                                                                    |
+| Определение Хотдога    | ![photo_1_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/193ec0e3-4383-4422-bb56-bed4831c4538) | ![photo_3_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/0eeae28b-d2cd-4b76-904a-822b944aced3) |
 | Определение НЕ Хотдога | ![photo_4_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/486a169f-c00f-4c8f-9e2e-25aa6751bbe1) | ![photo_5_2023-08-03_18-18-51](https://github.com/VARWA/hotdog_or_not_hotdog/assets/60575285/8011e04a-7ff5-44b0-b5c7-cadbcd546d10) |
 
 ---
 
 ## Пакеты
-| Задача | Пакет | Версия |
-|--------|-------|--------|
-| Работа с моделью .tflite | tflite_v2 | 1.0.0 |
-| Создание фотографий | image_picker | 0.8.5 |
-| Текстовые стили | bordered_text | 2.0.0 |
-| Создание иконки приложения | flutter_launcher_icons | 0.13.1 |
+| Задача                     | Пакет                                                                     | Версия |
+|----------------------------|---------------------------------------------------------------------------|--------|
+| Работа с моделью .tflite   | [tflite_v2](https://pub.dev/packages/tflite_v2)                           | 1.0.0  |
+| Создание фотографий        | [image_picker](https://pub.dev/packages/image_picker)                     | 0.8.5  |
+| Текстовые стили            | [bordered_text](https://pub.dev/packages/bordered_text)                   | 2.0.0  |
+| Создание иконки приложения | [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) | 0.13.1 |
