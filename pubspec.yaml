@@ -37,7 +37,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   image_picker: ^0.8.5
   tflite_v2: ^1.0.0
-  path_provider: ^2.0.15
   bordered_text: ^2.0.0
 
 dev_dependencies:
