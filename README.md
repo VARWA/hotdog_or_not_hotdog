@@ -39,5 +39,5 @@
 |----------------------------|---------------------------------------------------------------------------|--------|
 | Работа с моделью .tflite   | [tflite_v2](https://pub.dev/packages/tflite_v2)                           | 1.0.0  |
 | Создание фотографий        | [image_picker](https://pub.dev/packages/image_picker)                     | 0.8.5  |
-| Текстовые стили            | [bordered_text](https://pub.dev/packages/bordered_text)                   | 2.0.0  |
+| Реализация стиля текста            | [bordered_text](https://pub.dev/packages/bordered_text)                   | 2.0.0  |
 | Создание иконки приложения | [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) | 0.13.1 |
