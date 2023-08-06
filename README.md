@@ -3,6 +3,10 @@
 
 ---
 
+[Ссылка на APK](https://github.com/VARWA/hotdog_or_not_hotdog/releases/tag/v1.0.0)
+
+---
+
 ## Функционал
 - Определение объекта с фотографии к одной из двух категорий: Хотдог(Hotdog) или Не хотдог(Not hotdog)
 
